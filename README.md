@@ -1,0 +1,2 @@
+# Python_Function
+Function_that_Accept_any_number_of_argument
